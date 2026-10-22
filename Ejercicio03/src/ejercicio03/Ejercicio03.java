@@ -16,7 +16,10 @@ public class Ejercicio03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        double var1 = Math.sqrt(49);
+        double var2 = 2.5;
         
+        System.out.println((25+15)/8 + var1 + var2);
     }
     
 }
